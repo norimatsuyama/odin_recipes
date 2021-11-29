@@ -1,3 +1,3 @@
-# This is my first html program. The page contains recipes for baked goods.
-# This project demonstrates my knowledge for making a simple website and using git.
-
+# This is my first project to make a website containing links on Odin Project. 
+# THe project also demonstrates my knowledge for using git and github. 
+# The website will include recipes for baked goods.
